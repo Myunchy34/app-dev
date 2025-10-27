@@ -33,4 +33,4 @@ Make code ``If (Kaiju == true) {
           Jeager.kill();
          }`` 
 
-This is the [link] (https://pacificrim.fandom.com/wiki/Pacific_Rim_Wiki) to the Wiki 
+This is the [link](https://pacificrim.fandom.com/wiki/Pacific_Rim_Wiki) to the Wiki 
